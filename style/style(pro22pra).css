@@ -1,0 +1,117 @@
+body{
+    background-color: #212B2D;
+}
+.mainmid{
+    width: 900px;
+    height: auto;
+    margin: auto;
+}
+.headsec{
+    width: 900px;
+    height: 220px;
+    background-image: url(H.header.jpg);
+    float: left;
+}
+.menusec{
+    width: 900px;
+    height: 50px;
+    background-color: #333D3f;
+    float: left;
+}
+.sideleft{
+    width: 250px;
+    height: 600px;
+    background-color: #212B2D;
+    float: left;
+}
+.sideright{
+    width: 650px;
+    height: 600px;
+    background-color: #212B2D;
+    float: left;
+}
+.hrline{
+    width: 900px;
+    height: 10px;
+    float: left;
+
+}
+.footsec{
+    width: 900px;
+    height: 140px;
+    float: left;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.menubar{
+    width: 150px;
+    height: 35px;
+    background-color: #333D3f;
+    float: left;
+    color: white;
+    padding-top: 15px;
+    text-align: center;
+}
+.menuline{
+    width: 2px;
+    height: 50px;
+    float: left;
+    background-color: lightslategrey;
+    color: lightsteelblue;
+}
+.sidelup{
+    width: 250px;
+    height: 330px;
+    color: white;
+    float: left;
+}
+.sideldown{
+    width: 250px;
+    height: 270px;
+    color: white;
+    float: left;
+    text-align: left;
+}
+.siderup{
+    width: 650px;
+    height: 330px;
+    color: white;
+    float: left;
+}
+.siderdown{
+    width: 650px;
+    height: 270px;
+    color: white;
+    float: left;
+}
+.siderd1{
+    width: 309px;
+    height: 270px;
+    color: white;
+
+    float: left;
+    padding-left: 15px;
+}
+.siderd2{
+    width: 2px;
+    height: 270px;
+    float: left;
+}
+.sidelup h2{
+    text-align: center;
+}
+.sideldown{
+    text-align: center;
+}
+li{
+    text-decoration: underline;
+}
+button{
+    padding: 10px;
+}
+.redcolor{
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+}
